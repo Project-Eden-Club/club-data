@@ -3,12 +3,12 @@
   "slots": [
     {
       "slotNumber": 1,
-      "isActive": false,
-      "fileName": "POSTERS_Placeholder.jpg",
-      "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
-      "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
-      "isLandscape": false
+      "isActive": true,
+      "fileName": "POSTERS_Poster_01.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_01.jpg",
+      "title": "Test",
+      "lastModified": "2025-11-17T22:31:09.285Z",
+      "isLandscape": true
     },
     {
       "slotNumber": 2,
@@ -16,7 +16,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -25,7 +25,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -34,7 +34,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -43,7 +43,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -52,7 +52,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -61,7 +61,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -70,7 +70,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -79,7 +79,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -88,7 +88,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -97,7 +97,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -106,7 +106,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -115,7 +115,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -124,7 +124,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -133,7 +133,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -142,7 +142,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -151,7 +151,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -160,7 +160,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -169,7 +169,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -178,7 +178,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -187,7 +187,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -196,7 +196,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -205,7 +205,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -214,7 +214,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -223,7 +223,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -232,7 +232,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -241,7 +241,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -250,7 +250,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -259,7 +259,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.948Z",
       "isLandscape": false
     },
     {
@@ -268,7 +268,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -277,7 +277,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -286,7 +286,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -295,7 +295,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -304,7 +304,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -313,7 +313,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -322,7 +322,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -331,7 +331,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -340,7 +340,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -349,7 +349,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -358,7 +358,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -367,7 +367,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -376,7 +376,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -385,7 +385,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -394,7 +394,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -403,7 +403,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -412,7 +412,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -421,7 +421,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -430,7 +430,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -439,7 +439,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     },
     {
@@ -448,7 +448,7 @@
       "fileName": "POSTERS_Placeholder.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Placeholder.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-17T22:26:55.026Z",
+      "lastModified": "2025-11-17T22:52:38.949Z",
       "isLandscape": false
     }
   ]
