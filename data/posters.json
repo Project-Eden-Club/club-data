@@ -9,9 +9,7 @@
       "title": "Zinbag",
       "lastModified": "2025-11-17T23:05:51.818Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 2,
@@ -21,9 +19,7 @@
       "title": "Zerxi",
       "lastModified": "2025-11-18T00:58:49.509Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 3,
@@ -33,11 +29,7 @@
       "title": "Zenapena",
       "lastModified": "2025-11-17T23:05:55.518Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall",
-        "vip board",
-        "waiting lobby"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 4,
@@ -47,9 +39,7 @@
       "title": "Winequeen",
       "lastModified": "2025-11-17T23:05:57.036Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 5,
@@ -59,9 +49,7 @@
       "title": "UnFoundBug",
       "lastModified": "2025-11-17T23:05:58.907Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 6,
@@ -71,9 +59,7 @@
       "title": "Tenshi",
       "lastModified": "2025-11-17T23:06:01.245Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 7,
@@ -83,9 +69,7 @@
       "title": "SunnyR",
       "lastModified": "2025-11-17T23:06:03.320Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 8,
@@ -95,10 +79,7 @@
       "title": "StayExtraFrosty",
       "lastModified": "2025-11-17T23:06:05.261Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall",
-        "waiting lobby"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 9,
@@ -108,9 +89,7 @@
       "title": "Sheo",
       "lastModified": "2025-11-17T23:06:06.950Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 10,
@@ -120,9 +99,7 @@
       "title": "Rozie",
       "lastModified": "2025-11-17T23:06:08.572Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 11,
@@ -142,9 +119,7 @@
       "title": "QinTheCrab",
       "lastModified": "2025-11-17T23:06:12.375Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 13,
@@ -154,9 +129,7 @@
       "title": "Mowster",
       "lastModified": "2025-11-17T23:06:14.232Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 14,
@@ -166,9 +139,7 @@
       "title": "lemon2",
       "lastModified": "2025-11-17T23:06:15.939Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 15,
@@ -178,9 +149,7 @@
       "title": "Kagome",
       "lastModified": "2025-11-17T23:06:18.976Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 16,
@@ -190,9 +159,7 @@
       "title": "Jimbo",
       "lastModified": "2025-11-17T23:06:20.609Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 17,
@@ -202,9 +169,7 @@
       "title": "jasminefirepoi",
       "lastModified": "2025-11-17T23:06:22.060Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 18,
@@ -214,9 +179,7 @@
       "title": "Hanako",
       "lastModified": "2025-11-17T23:06:23.831Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 19,
@@ -226,9 +189,7 @@
       "title": "Grim",
       "lastModified": "2025-11-17T23:06:25.796Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 20,
@@ -238,9 +199,7 @@
       "title": "Dybo",
       "lastModified": "2025-11-17T23:06:27.437Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 21,
@@ -260,7 +219,9 @@
       "title": "Baldurs",
       "lastModified": "2025-11-17T23:06:30.831Z",
       "isLandscape": false,
-      "tags": []
+      "tags": [
+        "featured"
+      ]
     },
     {
       "slotNumber": 23,
@@ -330,9 +291,7 @@
       "title": "MechaMaria64",
       "lastModified": "2025-11-17T23:06:42.034Z",
       "isLandscape": false,
-      "tags": [
-        "dancer hall"
-      ]
+      "tags": []
     },
     {
       "slotNumber": 30,
@@ -340,7 +299,7 @@
       "fileName": "POSTERS_Poster_30.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_30.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -350,7 +309,7 @@
       "fileName": "POSTERS_Poster_31.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_31.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -360,7 +319,7 @@
       "fileName": "POSTERS_Poster_32.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_32.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -370,7 +329,7 @@
       "fileName": "POSTERS_Poster_33.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_33.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -380,7 +339,7 @@
       "fileName": "POSTERS_Poster_34.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_34.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -390,7 +349,7 @@
       "fileName": "POSTERS_Poster_35.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_35.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -400,7 +359,7 @@
       "fileName": "POSTERS_Poster_36.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_36.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -410,7 +369,7 @@
       "fileName": "POSTERS_Poster_37.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_37.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -420,7 +379,7 @@
       "fileName": "POSTERS_Poster_38.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_38.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -430,7 +389,7 @@
       "fileName": "POSTERS_Poster_39.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_39.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -440,7 +399,7 @@
       "fileName": "POSTERS_Poster_40.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_40.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -450,7 +409,7 @@
       "fileName": "POSTERS_Poster_41.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_41.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -460,7 +419,7 @@
       "fileName": "POSTERS_Poster_42.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_42.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -470,7 +429,7 @@
       "fileName": "POSTERS_Poster_43.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_43.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -480,7 +439,7 @@
       "fileName": "POSTERS_Poster_44.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_44.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -490,7 +449,7 @@
       "fileName": "POSTERS_Poster_45.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_45.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -500,7 +459,7 @@
       "fileName": "POSTERS_Poster_46.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_46.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -510,7 +469,7 @@
       "fileName": "POSTERS_Poster_47.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_47.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -520,7 +479,7 @@
       "fileName": "POSTERS_Poster_48.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_48.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -530,7 +489,7 @@
       "fileName": "POSTERS_Poster_49.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_49.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     },
@@ -540,7 +499,7 @@
       "fileName": "POSTERS_Poster_50.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Project-Eden-Club/club-data/main/posters/POSTERS_Poster_50.jpg",
       "title": "Empty Slot",
-      "lastModified": "2025-11-19T08:22:27.699Z",
+      "lastModified": "2025-11-19T21:08:05.381Z",
       "isLandscape": false,
       "tags": []
     }
