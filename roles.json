@@ -1,6 +1,41 @@
 {
   "users": [
     {
+      "vrchat_username": "gantz88",
+      "roles": [
+        "Guest Dancer",
+        "Staff"
+      ]
+    },
+    {
+      "vrchat_username": "moodyrecon",
+      "roles": [
+        "Guest Dancer",
+        "Staff"
+      ]
+    },
+    {
+      "vrchat_username": ".wunder",
+      "roles": [
+        "Guest Dancer",
+        "Staff"
+      ]
+    },
+    {
+      "vrchat_username": "dawolf1339",
+      "roles": [
+        "Guest Dancer",
+        "Staff"
+      ]
+    },
+    {
+      "vrchat_username": "zeek_nado",
+      "roles": [
+        "Guest Dancer",
+        "Staff"
+      ]
+    },
+    {
       "vrchat_username": "lordzachbora",
       "roles": [
         "Tier 1 Supporter"
@@ -346,8 +381,8 @@
     }
   ],
   "metadata": {
-    "generated_at": "2025-12-10T05:00:32.010Z",
+    "generated_at": "2025-12-10T05:01:16.090Z",
     "app_version": "0.1.0",
-    "total_users": 52
+    "total_users": 57
   }
 }
